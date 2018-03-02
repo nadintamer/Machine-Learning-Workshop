@@ -3,9 +3,9 @@
 ## Overview
 This is the Jupyter notebook used during the Machine Learning Workshop at Hisar Coding Summit 2018.
 
-Language: Turkish (and also Python 3)
+**Language:** Turkish (and also Python 3)
 
-My Kaggle Kernel: https://www.kaggle.com/nadintamer/hisar-coding-summit-2018-machine-learning
+**My Kaggle Kernel:** https://www.kaggle.com/nadintamer/hisar-coding-summit-2018-machine-learning
 
 ## Tools Used
 * Python
